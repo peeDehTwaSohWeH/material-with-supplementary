@@ -26,3 +26,9 @@
 # Credit
 感谢提供2012年同人志内页的朋友，以及在过程中提供排版修改意见和错字漏字修正的朋友。
 本站点内容在不对内容做修改的前提下欢迎任意转载，不必署名，但希望同时带上weibo和github两方链接，以便读者追溯和查看潜在的内容更新。
+
+# Updates timeline
+2017/07/02: tl;dr version + in depth version posted on weibo/lofter/github;
+2017/07/03: party posted its statements; before this, we received threaten through comments&DM (refer to `回应的回应1`)
+2017/07/04: we posted our statements and decided no more comments on this bloody thing:) so be it guys
+2017/07/08: lottery done
