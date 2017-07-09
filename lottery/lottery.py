@@ -28,7 +28,7 @@ with open('raw_from_wap.txt', 'r') as file:
                     mylist = [_.strip().split(' ')[0].split('：')[0].replace('/', '') for _ in mylist]
                     IDlist.extend(mylist)
 IDlist = list(set(IDlist))
-IDlist.sort()
+IDlist.sort()  # seems `set()` may introduce uncontrollable randomness so give a sort here and shuffle it up later
 print(len(IDlist))  
 # The printed number should be less than repost count(~2174) showed at webUI
 # because some of the users were reposting privately (i.e.friend circle only)
