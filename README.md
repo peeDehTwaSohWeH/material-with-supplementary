@@ -5,7 +5,7 @@
 本部分内容同样载于完整版的表1。
 - \[社团\]麒麟中宣省：微博[kirinduchy](http://www.weibo.com/kirinduchy)，微博[5982349835](http://www.weibo.com/u/5982349835)，博客大巴[kirindoujin](http://kirindoujin.blogbus.com/)，lofter [kirinzhongxuansheng](http://kirinzhongxuansheng.lofter.com/)，天窗[kirin](http://doujin.bangumi.tv/club/kirin)
 - \[译者\]二三团子（2017年ID为:良辰美景奈何桥）：微博[nisandango](http://weibo.com/nisandango)，新浪博客[huoyuezaiyuan](http://blog.sina.com.cn/huoyuezaiyuan)
-- \[代发\]None\_诺奈（疑与译者是同一人）：微博[chinhekiihu](http://www.weibo.com/chinhekiihu)，lofter [emptysetnone](http://emptysetnone.lofter.com/)
+- \[代发\]None\_诺奈：微博[chinhekiihu](http://www.weibo.com/chinhekiihu)，lofter [emptysetnone](http://emptysetnone.lofter.com/)
 - \[我们是谁\]微博[HeWhoSawTheDeep](http://www.weibo.com/hewhosawthedeep/)
 
 # 文件说明
