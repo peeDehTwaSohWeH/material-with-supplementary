@@ -29,6 +29,7 @@
 
 # Updates timeline
 - 2017/07/02: tl;dr version + in depth version posted on weibo/lofter/github;
-- 2017/07/03: party posted its statements; before this, we received threaten through comments&DM (refer to `回应的回应1`)
-- 2017/07/04: we posted our statements and decided no more comments on this bloody thing:) so be it guys
-- 2017/07/08: lottery done
+- 2017/07/03: party posted its statements; before this, we received threaten through comments&DM (refer to `回应的回应1`);
+- 2017/07/04: we posted our statements and decided no more comments on this bloody thing:) so be it guys;
+- 2017/07/08: lottery done;
+- 2017/07/19: translator's weibo account(二三团子) has activities but still no statements/explainations on this issue have been post.
