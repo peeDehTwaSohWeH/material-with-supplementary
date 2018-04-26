@@ -3,7 +3,7 @@
 
 # 关于文中涉及的主体及个体
 本部分内容同样载于完整版的表1。
-- \[社团\]麒麟中宣省：微博[kirinduchy](http://www.weibo.com/kirinduchy)，微博[5982349835](http://www.weibo.com/u/5982349835)，博客大巴[kirindoujin](http://kirindoujin.blogbus.com/)，lofter [kirinzhongxuansheng](http://kirinzhongxuansheng.lofter.com/)，天窗[kirin](http://doujin.bangumi.tv/club/kirin)
+- \[社团\]麒麟中宣省：微博[kirinduchy](http://www.weibo.com/kirinduchy)，微博[5982349835](http://www.weibo.com/u/5982349835)，博客大巴[kirindoujin](http://kirindoujin.blogbus.com/)，lofter [kirinzhongxuansheng](http://kirinzhongxuansheng.lofter.com/)，天窗[kirin](http://doujin.bangumi.tv/club/kirin)， amazon.co.jp [Kirin Club](https://www.amazon.co.jp/s/ref=bl_dp_s_web_0?ie=UTF8&search-alias=aps&field-keywords=Kirin+Club)，虎穴 [Kirin（作者），Kirin club（社团）](http://www.toranoana.jp/mailorder/cit/circle/92/66/5731303636363932/4b6972696e20436c7562_01.html)
 - \[译者\]二三团子（2017年ID为:良辰美景奈何桥）：微博[nisandango](http://weibo.com/nisandango)，新浪博客[huoyuezaiyuan](http://blog.sina.com.cn/huoyuezaiyuan)
 - \[代发\]None\_诺奈：微博[chinhekiihu](http://www.weibo.com/chinhekiihu)，lofter [emptysetnone](http://emptysetnone.lofter.com/)
 - \[我们是谁\]微博[HeWhoSawTheDeep](http://www.weibo.com/hewhosawthedeep/)
@@ -33,3 +33,4 @@
 - 2017/07/04: we posted our statements and decided no more comments on this bloody thing:) so be it guys;
 - 2017/07/08: lottery done;
 - 2017/07/19: translator's weibo account(二三团子) has activities but still no statements/explainations on this issue have been post.
+- 2018/04/25: minor update (added direct links of related amazon/toranoana pages); by far any individual or group envolved have not been available for comment.
